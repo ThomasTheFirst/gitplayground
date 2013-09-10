@@ -1,0 +1,16 @@
+cd 		- change directory
+pwd 		- present working directory
+ls -al 		- display contents of pwd
+git config
+--global
+user.name	- set your name to git
+user.email	- set your email to git
+--list 		- list details of git
+git init	- become a repository
+git add .	- add all to rep
+git add file.ext- add one to rep
+git status	- current status of repository
+git commit -m ""- commit to repository
+git commit -am""- add and commit
+git log		- print out the log
+git diff	- compare current version to previous
