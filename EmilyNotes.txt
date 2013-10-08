@@ -1,0 +1,36 @@
+
+
+Assignment 1 - First week back
+Project Plan
+Google Drive
+GitHub - Upload text files/download text files
+
+All notes available on J:/ITWeb/2013/Programming/Ivone/ProjectManagement/Session 10
+Notes not needed until assignment 2 commenced, so no need to worry about not being able to get to it this term
+Pimboke
+
+Integration Management - Most covered in earlier topics
+Software int - pieces of project working together (testing)
+change control - moving project between environments and approvals
+change requests are a key part of change control
+
+PM Method Production & Schedule Control
+Mostly just read through the slides
+tools to perform stress (multiferous users) testing
+Timesheets - reliable for tracking time spent on work
+REA - Convince the users the change is positive
+NRA - Change the group culture use when long-term adhesion is required
+PCA - Managers command the change use in time-critical situations
+EAA - 
+
+Quality Assurance
+Mostly just read through the slides
+Absence of PM Methodology mostly done by inexperienced team members
+Can permit errors depending on standards and error classification
+Product Metrics - Functional
+Process Metrics - Errors
+Project Metrics - Budget/Scope/Time
+
+Legal Issues
+Implied - back ups
+patents for inventions, trademark for identifiers
